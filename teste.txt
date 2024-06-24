@@ -1,0 +1,2 @@
+Editando o documento teste via linha de comando.
+Salvando.
